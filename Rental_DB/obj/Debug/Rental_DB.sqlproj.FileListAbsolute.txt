@@ -1,0 +1,6 @@
+C:\Users\lkiran\source\repos\Shop_rental\Rental_DB\bin\Debug\Rental_DB.dacpac
+C:\Users\lkiran\source\repos\Shop_rental\Rental_DB\bin\Debug\Rental_DB.dll
+C:\Users\lkiran\source\repos\Shop_rental\Rental_DB\bin\Debug\Rental_DB.pdb
+C:\Users\lkiran\source\repos\Shop_rental\Rental_DB\obj\Debug\Rental_DB.sqlproj.AssemblyReference.cache
+C:\Users\lkiran\source\repos\Shop_rental\Rental_DB\obj\Debug\Rental_DB.dll
+C:\Users\lkiran\source\repos\Shop_rental\Rental_DB\obj\Debug\Rental_DB.pdb
